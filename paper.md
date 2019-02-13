@@ -7,3 +7,9 @@ author: Lachlan Deer
 
 Animals are what makes a country great!
 My favourite country ranking depends on the animals that live in it.
+
+# My Favourite Australian Animals
+
+* koalas
+* kangaroos
+* funnel web spiders
