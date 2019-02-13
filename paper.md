@@ -17,3 +17,5 @@ My favourite country ranking depends ONLY on the animals that live in it.
 # My Favourite American animals
 
 * grizzly bears
+
+# Conclusion
