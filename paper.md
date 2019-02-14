@@ -25,3 +25,7 @@ ROADMAP!!
 # Conclusion
 
 This is the fancy pancy conclusion to our paper. We demonstrated the coolness of specific animals in a variety of settings.
+<<<<<<< HEAD
+=======
+Koalas are particularly cool.
+>>>>>>> 0a9f59a772eaee04ec9ad2f5ff2741fee5f3ad0f
