@@ -22,4 +22,4 @@ My favourite country ranking depends ONLY on the animals that live in it.
 
 # Conclusion
 
-This is the fancy pancy conclusion to our paper. 
+This is the fancy pancy conclusion to our paper. We demonstrated the coolness of specific animals in a variety of settings. 
